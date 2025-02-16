@@ -7,7 +7,7 @@ We use the MVTec AD dataset for experiments.
 
 The data directory structure should be:
 
-
+'''
 data
 └── mvtec
 ├── bottle
@@ -23,6 +23,7 @@ data
 ├── ground_truth
 ├── test
 └── train
+'''
 
 
 ## Installation
