@@ -44,7 +44,7 @@ conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvi
 Pretrained Checkpoints
 Download pretrained checkpoints here and put the checkpoints under <project_dir>/checkpoints/.
 
-Baidu Netdisk: 
+Baidu Netdisk: https://pan.baidu.com/s/1wEDvLp1uDa6nqrADJZkatA?pwd=ey21  ey21
 
 Acknowledgement
 We borrow some codes from RD4AD
